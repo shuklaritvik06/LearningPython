@@ -1,7 +1,2 @@
-## Learning Python
-
-Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
-
-This repository will contain the projects which I made while learning Python.
-
-**Thank you for visiting my projects repository, I really appreciate it 💖. If you like my work please give this repo a star, it will be highly motivating for me ✨ 😄**
+# Python-Projects
+This Repository will have all the projects which i made while doing 100 Days of Code Challenge
